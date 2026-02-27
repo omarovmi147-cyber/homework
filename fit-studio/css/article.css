@@ -29,7 +29,7 @@ p {
 }
 
 .article-title {
-  max-width: 620px;
+  max-width: 596px;
   margin-bottom: 40px;
   font-family: Oswald;
   font-weight: 600;
@@ -75,3 +75,4 @@ p {
 .article-video {
   margin-bottom: 40px;
 }
+
